@@ -7,7 +7,7 @@ A personal catalogue of colognes: what each one smells like, what it evokes, and
 ### Colognes
 
 **Cologne**:
-Any fragrance tracked in the app, regardless of its Concentration.
+Any fragrance tracked in the app, regardless of its Concentration. A Cologne is identified by its House, name and Concentration, so an EdT and an EdP of the same line are two Colognes.
 _Avoid_: Fragrance, perfume, scent, juice
 
 **Concentration**:
@@ -57,6 +57,14 @@ _Avoid_: Sillage, performance
 One of Spring, Summer, Fall, Winter.
 _Avoid_: Autumn
 
+**Warm seasons**:
+Spring and Summer, taken together. A Cologne suits the Warm seasons if it suits either one.
+_Avoid_: Hot weather
+
+**Cold seasons**:
+Fall and Winter, taken together. A Cologne suits the Cold seasons if it suits either one.
+_Avoid_: Cool weather
+
 **Time of day**:
 Either Day or Night.
 
@@ -77,3 +85,11 @@ _Avoid_: Zero, N/A
 **Label**:
 A tag the user creates, gives a color, and attaches to Colognes to help decide what to wear, such as "office-safe" or "date night". Only the user applies Labels; anything the app computes is not a Label. Some overlap with Accords is expected and fine.
 _Avoid_: Tag, category
+
+**Best for**:
+The Season, Time of day and Setting a Cologne is rated highest in, computed by the app from its Ratings, such as "Summer · Night · Formal". It is never a Label.
+_Avoid_: Recommendation, label
+
+**Gap**:
+A search that no Owned Cologne matches: something the user might want to wear but doesn't have in the Collection.
+_Avoid_: Hole, missing

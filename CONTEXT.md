@@ -40,6 +40,10 @@ _Avoid_: Intensity, weight, percentage
 A material the user smells in a Cologne, such as bergamot or tobacco leaf. Notes are what a Cologne smells of; Accords are what it makes the user feel.
 _Avoid_: Ingredient
 
+**Note position**:
+Where a Note sits in a Cologne's pyramid: Top, Heart, or Base. Optional, since some Colognes are listed without a pyramid.
+_Avoid_: Middle, tier, layer
+
 **Longevity**:
 How long a Cologne lasts once applied, from 1 to 5.
 
@@ -55,6 +59,18 @@ _Avoid_: Autumn
 
 **Time of day**:
 Either Day or Night.
+
+**Setting**:
+One of Casual, Formal, Outdoors, Professional.
+_Avoid_: Occasion, context
+
+**Rating**:
+How well a Cologne suits one Season, Time of day, or Setting, from 1 to 10. Ratings never express how much the user likes a Cologne; the app doesn't track that.
+_Avoid_: Suitability, score, personal rating
+
+**Unrated**:
+A Rating left blank. Unrated is not the same as a low Rating.
+_Avoid_: Zero, N/A
 
 ### Deciding
 
